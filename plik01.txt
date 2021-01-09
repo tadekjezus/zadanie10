@@ -1,1 +1,2 @@
 master ka plik pierwszy rewizja 1
+dtuga linia na galezi branch01 rewizja 2
